@@ -1,11 +1,11 @@
 # Game Viewport Sync
-UE4 Plugin for syncing the active Play In Editor session with the other Level Editor Viewports.
+UE5 Plugin for syncing the active Play In Editor session with the other Level Editor Viewports.
 
 [![Preview](https://i.imgur.com/5PEwR0p.gif)](https://gfycat.com/responsiblemealyheifer.gif)
 
 **Supported Unreal Versions:**
 
-4.24 - 4.25.
+5.2+
 
 **Features:**
 - Simple Setup
@@ -37,3 +37,5 @@ Currently does not support persistent viewport settings.
 Follow the issue here:
 
 https://github.com/jackknobel/GameViewportSync/issues/1
+
+Forked from https://github.com/jackknobel/GameViewportSync
