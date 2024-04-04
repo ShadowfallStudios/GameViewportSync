@@ -1,5 +1,5 @@
 # Game Viewport Sync
-UE5 Plugin for syncing the active Play In Editor session with the other Level Editor Viewports.
+UE5 Plugin for syncing the active Play In Editor session with the other Level Editor Viewports. Forked from https://github.com/jackknobel/GameViewportSync
 
 [![Preview](https://i.imgur.com/5PEwR0p.gif)](https://gfycat.com/responsiblemealyheifer.gif)
 
